@@ -15,7 +15,7 @@ font-family: 'Noto Sans KR';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NotoSansKR/NotoSansKR.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NotoSansKR/NotoSansKR.css" type="text/css"/>
 ```
 
 &nbsp;
